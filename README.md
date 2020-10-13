@@ -2,6 +2,10 @@
 
 Kaiwa is a realtime chat application, built in browser using react app and GraphQL. <br />
 
+## Demo
+How this app actually looks :<br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/kaiwa/master/demo/kaiwa.png"></img> <br><br>
+
 ## How to Run ?
 1. Clone this repository : <br />
 `git clone https://github.com/kevinadhiguna/kaiwa.git`
