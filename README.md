@@ -18,3 +18,5 @@ How this app actually looks :<br>
 `cd home-page` -> `yarn start` <br />
 `cd server`    -> `yarn start`
 4. Voila! The app will be running on `localhost:8081`.
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/kaiwa)](https://github.com/kevinadhiguna)
