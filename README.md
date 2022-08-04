@@ -19,4 +19,8 @@ How this app actually looks :<br>
 `cd server`    -> `yarn start`
 4. Voila! The app will be running on `localhost:8081`.
 
+## Reference
+
+- [Realtime Chat App | React, GraphQL & Websockets by Traversy Media and Jack Herrington](https://youtu.be/E3NHd-PkLrQ)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/kaiwa)](https://github.com/kevinadhiguna)
